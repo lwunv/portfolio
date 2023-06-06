@@ -1,0 +1,10 @@
+.header .header-inner {
+    display: flex;
+    align-items: center;
+  }
+  .header .header-nav-main {
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+  }
+  
